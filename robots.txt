@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://zmjjkk331.github.io/pockettools/sitemap.xml
